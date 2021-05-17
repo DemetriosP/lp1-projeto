@@ -3,4 +3,4 @@ project(lp1_projeto)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(lp1_projeto main.cpp)
+add_executable(lp1_projeto main.c funcoes.c funcoes.h)

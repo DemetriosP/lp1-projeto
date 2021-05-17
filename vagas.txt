@@ -1,0 +1,39 @@
+Recepcionista
+Medio
+F
+18
+0
+1500.00
+5
+
+Ajudante geral
+Fundamental
+M
+30
+0
+4500.00
+3
+
+Gerente de RH
+Superior
+X
+30
+0
+4500.00
+2
+
+Analista de Sistemas
+Superior
+X
+25
+0
+3500.00
+1
+
+Porteiro
+Fundamental
+X
+35
+50
+1200.00
+2
